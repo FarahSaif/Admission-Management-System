@@ -1,0 +1,17 @@
+Complete
+First Name:                                       John
+Last Name:                                        Doe
+Email Name:                                       john@hotmail.com
+User id:                                          voa1001
+Password:                                         aB12345
+Phone Number:                                     123-123-1234
+Line One:                                         141 Church St.
+Line Two:                                         Broadway
+City:                                             New York
+State:                                            NY
+Post Code:                                        10001
+GPA:                                              3.00
+SAT Score:                                        500
+Family Income:                                    25000.00
+Essay Score:                                      75
+Error Per 100 Words:                              9
